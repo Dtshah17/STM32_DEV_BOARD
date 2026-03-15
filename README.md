@@ -39,6 +39,6 @@ The devboard features the following:
 ## Upcoming 
  - Embed sensors including BME208 Barometric Pressure Sensor
  - Design motion suite HAT for board including gyroscope
- - Ethernet based connection
+ - Program over Air and PPoE HAT
 
 
