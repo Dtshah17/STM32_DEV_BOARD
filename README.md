@@ -34,6 +34,11 @@ The devboard features the following:
  - 15/3/26 : PCB Schematic broken, netlist items incorrectly assigned 
  - 15/3/26 : Issues arisen due to version change and file type mishandling
  - 15/3/26 : WIP Redesign of PCB
- - 15/3/26 : Temporarily Removed PCB file from Main 
+ - 15/3/26 : Temporarily Removed PCB file from Main
+
+## Upcoming 
+ - Embed sensors including BME208 Barometric Pressure Sensor
+ - Design motion suite HAT for board including gyroscope
+ - Ethernet based connection
 
 
