@@ -1,0 +1,34 @@
+Reference,Description,Value,Package,Qty,Unit Price (USD),Line Total (USD),Supplier,Notes
+C1+C2+C9+C15,Capacitor,1u,0402,4,0.01,0.04,LCSC,Generic MLCC
+C3+C4+C5+C6+C11+C12,Capacitor,100n,0402,6,0.01,0.06,LCSC,Generic MLCC
+C7,Capacitor,4.7u,0603,1,0.02,0.02,LCSC,Generic MLCC
+C8,Capacitor,10n,0603,1,0.02,0.02,LCSC,Generic MLCC
+C10,Capacitor,10u,0603,1,0.02,0.02,LCSC,Generic MLCC
+C13+C14,Capacitor,27p,0402,2,0.01,0.02,LCSC,Crystal load caps
+D1,Zener Diode,D_Zener,SOD-323,1,0.03,0.03,LCSC,Generic zener
+D2+D3+D4,LED,,0603,3,0.05,0.15,LCSC,Generic SMD LED
+D5,Diode,1N4148WS,SOD-323,1,0.02,0.02,LCSC,Vishay 1N4148WS
+FB1+FB2,Ferrite Bead,FerriteBead_Small,0402,2,0.02,0.04,LCSC,Generic ferrite bead
+J1,USB-C Receptacle 16P,USB_C_Receptacle_USB2.0_16P,GCT USB4105,1,0.55,0.55,LCSC,GCT USB4105-GF-A
+J2+J3,Pin Socket 1x15,Conn_01x15_Socket,2.54mm THT,2,0.25,0.50,LCSC,1x15 2.54mm socket
+J4,Pin Header 1x5,Conn_01x05_Pin,2.54mm THT,1,0.08,0.08,LCSC,1x05 2.54mm header
+J5+J6,Pin Header 1x4,Conn_01x04_Pin,2.54mm THT,2,0.07,0.14,LCSC,1x04 2.54mm header
+Q1,N-Channel MOSFET,2N7002,SOT-23,1,0.03,0.03,LCSC,OnSemi 2N7002
+R1+R2,Resistor,5k1,0402,2,0.01,0.02,LCSC,CC resistors for USB-C
+R3+R6+R7,Resistor,330,0402,3,0.01,0.03,LCSC,LED current limiting
+R4+R5,Resistor,22,0402,2,0.01,0.02,LCSC,USB D+/D- series
+R8,Resistor,330k,0402,1,0.01,0.01,LCSC,Generic
+R9+R13,Resistor,1M,0402,2,0.01,0.02,LCSC,Generic
+R10,Resistor,1k,0402,1,0.01,0.01,LCSC,Generic
+R11+R14+R15,Resistor,10k,0402,3,0.01,0.03,LCSC,Generic pull-up/down
+R12,Resistor,100,0402,1,0.01,0.01,LCSC,Generic
+R16+R17,Resistor,1k5,0402,2,0.01,0.02,LCSC,USB pull-up
+SW1,Tactile Push Button,SW_Push,6mm THT,1,0.08,0.08,LCSC,6mm THT tactile switch
+U1,Microcontroller,STM32F070C6Tx,LQFP-48,1,1.20,1.20,LCSC,STMicro STM32F070C6Tx
+U2,LDO Regulator,AMS1117-3.3,SOT-223,1,0.12,0.12,LCSC,AMS AMS1117-3.3
+U3,SPI Flash 32Mb,W25Q32JVSS,SOIC-8,1,0.35,0.35,LCSC,Winbond W25Q32JVSS
+Y1,Crystal,Crystal_GND24,Abracon ABM8G 3.2x2.5mm,1,0.30,0.30,LCSC,SMD crystal with GND pads
+,,,,,,,,
+,,,,Total Component Count,58,,,
+,,,,Total BOM Cost (USD),,3.94,,Estimated at ~qty 10 from LCSC
+,,,,Notes,,,,"Prices are representative estimates based on LCSC/JLCPCB market rates (qty 10). Actual prices vary by quantity, availability, and supplier. PCB fabrication and assembly costs not included."
